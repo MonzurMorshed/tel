@@ -1,0 +1,100 @@
+
+
+@media screen and (orientation:portrait){
+	#tab-select{
+		width:100%;
+	}
+	.h-tab_tab-head li{
+		font-size: 13px;
+	}
+	.profile-box{
+		height:auto;
+	}
+	.profile_box_2{
+		margin-left: 15px;
+		margin-right: 15px;
+	}
+	.navbar .language-dropdown .custom-dropdown-icon a.dropdown-toggle{
+		padding: 5px 18px 10px 3px;
+	}
+	.dropdown-menu.position-absolute.show{
+			position: absolute!important;
+			right: 0!important;
+			left: -28px!important;
+			margin: 0 auto;
+			padding: 1px 9px 10px 1px;
+	}
+	.navbar .language-dropdown .custom-dropdown-icon .dropdown-menu{
+		right: -48px;
+	}
+	#tab-select{
+		padding: 5px 7px 5px 15px;
+	    border-radius: 4px;
+	    background: white;
+	}
+	.prev-div{
+		display: none;
+	}
+	.fc-timeGridDay-button{
+		width: 100%;
+		padding: 0px 5px 8px 5px!important;
+	}
+	.fc-timeGridWeek-button{
+		width: 100%;
+		padding: 0px 5px 8px 5px!important;
+	}
+	.fc-dayGridMonth-button{
+		width: 100%;
+		padding: 0px 5px 8px 5px!important;
+	}
+
+	.actual-client-name{
+		font-size: 15px;
+		line-height: 18px;
+	}
+	.not-connected-text{
+		font-size: 14px;
+		line-height: 18px;
+	}
+	.manage-clients-avatar{
+		width: 49px;
+       /* height: 48px;
+appointment page image adjust
+*/ 
+height:auto;
+	}
+	.btn.cancel-appoint-btn.mr-2{
+		font-size: 11px;
+		width: 100%!important;
+	}
+	.widget-table-one .transactions-list .t-item .t-name h4{
+		font-size: 12px;
+	}
+	.view-profile-link{
+		font-size: 11px;
+	}
+	.consultations-mgmt{
+		display:block;
+	}
+	.consult{
+		width: 130px;
+	}
+}
+
+ @media (width:320px) {
+ul.navbar-item {
+	margin-left: 2rem;
+    margin-top: -4rem;
+    padding-top: 1.4rem;
+}
+.header-container .sidebarCollapse{
+	margin-left: 14px;
+    display: block;
+    padding-top: 1rem;
+}
+
+ }
+ .navbar .navbar-item .nav-item.dropdown.notification-dropdown .nav-link span.badge{
+ 	    padding: 4px 0px 0px!important;
+ }
+

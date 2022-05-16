@@ -1,0 +1,114 @@
+
+.widget-content-area {
+    border-radius: 6px;
+    margin-bottom: 10px;
+}
+
+.daterangepicker.dropdown-menu {
+    z-index: 1059;
+}
+
+.widget-content-area {
+    border-radius: 0;
+    margin-bottom: 10px;
+}
+
+.statbox.box.box-shadow {
+    background-color: #fff !important;
+}
+
+.payment-invoice-text {
+    padding-left: 13px;
+}
+
+.widget-content-area {
+    margin-top: 30px;
+    height: 488px;
+}
+
+.three-icons {
+    display: inline;
+    margin-left: 7px;
+    margin-right: 6px;
+    cursor: pointer;
+}
+
+.fc table thead tr th {
+    background: rgba(167, 208, 142, 0.4);
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: #000000;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 24px;
+}
+
+
+td.fc-today.fc-state-highlight span {
+    background: #A7D08E;
+}
+
+.fc-head-container .fc-widget-header {
+
+    color: #000000;
+    height: 40px;
+    bottom: 0;
+
+    overflow: hidden
+}
+
+.fc-head-container fc-widget-header {
+    /*          background: rgba(167, 208, 142, 0.4);*/
+}
+
+.fc-head {
+    /*          background: rgba(167, 208, 142, 0.4);*/
+    color: #000000;
+    padding-top: 4px;
+}
+
+.bg-warning {
+    background: rgba(167, 208, 142, 0.15) !important;
+    color: #2C3F34;
+    border-color: rgba(167, 208, 142, 0.15) !important;
+
+}
+
+.bg-success {
+    background: rgba(167, 208, 142, 0.15) !important;
+    border-color: #e6ffbf !important;
+    color: #fff;
+    -webkit-box-shadow: none !important;
+    box-shadow: none !important;
+
+}
+
+.bg-danger {
+    border-left: 3px solid red !important;
+    border-image: linear-gradient(#FF0000, #FF0000) 0 100% !important;
+}
+
+.bg-danger:hover {
+    border-left: 3px solid red !important;
+    border-image: linear-gradient(#A7D08E, #A7D08E) 0 100% !important;
+}
+
+#calendar .fc-event {
+    border-radius: 0;
+    margin: 0 0;
+    width: 78%;
+    border: none;
+    border-image: linear-gradient(#A7D08E, #A7D08E) 0 100%;
+    border-left: 3px solid;
+    color: #2C3F34!important;
+}
+
+#calendar .fc-event:hover {
+    background: rgba(167, 208, 142, 0.15) !important;
+}
+
+.fc-row .fc-content-skeleton td, .fc-row .fc-helper-skeleton td {
+    padding: 1px !important;
+}
